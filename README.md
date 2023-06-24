@@ -2,9 +2,9 @@
 
 # Credit Card Default Predictor
 
-- Authors: Arjun Radhakrishnan, Morris Zhao, Fujie Sun, Ken Wang
+- Authors: Althrun Sun, Arjun Radhakrishnan, Morris Zhao,  Ken Wang
 
-This data analysis project was created for DSCI 522: Data Science Workflows, a course in the Master of Data Science program at the University of British Columbia.
+This risk modeling data analysis project was created for a course in the Master of Data Science program at the University of British Columbia.
 
 ## Introduction
 
