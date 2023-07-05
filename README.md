@@ -5,7 +5,7 @@
 - Authors: Althrun Sun
 
 This risk modeling data analysis project was created as a team project in the Master of Data Science program at the University of British Columbia. The screenshot of the dashboard shown below is part of the visualization result for this project. 
-![dashbaord_demo](data/img/dashboard.png)
+![dashbaord_demo](data/img/dashboard_v1.png)
 
 ## Introduction
 
