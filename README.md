@@ -46,7 +46,10 @@ We present the analysis report using GitHub Pages. The final report can be found
 
 ## Dashboard
 In order to visualize the demographic of the default customers and find financial insight, I built a dashboard by using Databricks and Tableau. The Dashboard URI deployed in tableau can be found [here](https://public.tableau.com/app/profile/althrun.sun/viz/CreditDefaultDashboardbyAlthrun/Dashboard1?publish=yes). The figure below is the demo for the dashboard.
-[data/img/dashboard.png]
+
+![dashbaord_demo](data/img/dashboard.png)
+
+
 
 
 ## Usage
