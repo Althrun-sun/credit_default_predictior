@@ -6,11 +6,6 @@
 
 This risk modeling data analysis project was created as a team project in the Master of Data Science program at the University of British Columbia.
 
-## Dashboard
-In order to visualize the demographic of the default customers and find financial insight, I built a dashboard by using Databricks and Tableau. The Dashboard URI deployed in tableau can be found [here](https://public.tableau.com/app/profile/althrun.sun/viz/CreditDefaultDashboardbyAlthrun/Dashboard1?publish=yes). The figure below is the demo for the dashboard.
-
-![dashbaord_demo](data/img/dashboard.png)
-
 ## Introduction
 
 ## Research Question
@@ -49,7 +44,10 @@ The report on the Exploratory Data Analysis can be found [here](https://github.c
 
 We present the analysis report using GitHub Pages. The final report can be found [here](https://ubc-mds.github.io/credit_default_prediction_group_20/doc/credit_default_analysis_report.html)
 
+## Dashboard
+In order to visualize the demographic of the default customers and find financial insight, I built a dashboard by using Databricks and Tableau. The Dashboard URI deployed in tableau can be found [here](https://public.tableau.com/app/profile/althrun.sun/viz/CreditDefaultDashboardbyAlthrun/Dashboard1?publish=yes). The figure below is the demo for the dashboard.
 
+![dashbaord_demo](data/img/dashboard.png)
 
 
 ## Usage
