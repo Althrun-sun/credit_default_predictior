@@ -44,6 +44,11 @@ The report on the Exploratory Data Analysis can be found [here](https://github.c
 
 We present the analysis report using GitHub Pages. The final report can be found [here](https://ubc-mds.github.io/credit_default_prediction_group_20/doc/credit_default_analysis_report.html)
 
+## Dashboard
+In order to visualize the demographic of the default customers and find financial insight, I built a dashboard by using Databricks and Tableau. The Dashboard URI deployed in tableau can be found [here](https://public.tableau.com/app/profile/althrun.sun/viz/CreditDefaultDashboardbyAlthrun/Dashboard1?publish=yes). The figure below is the demo for the dashboard.
+[data/img/dashboard.png]
+
+
 ## Usage
 
 To replicate the analysis, we offer two options: `Docker` and `Make`. The option to use `Docker` is only available for users running on `amd64` (`X86_64`) processors and is not available for systems with `arm64` (`aarch64`) processors. For `arm64` users, please use `Make` to replicate the analysis.
