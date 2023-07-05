@@ -2,7 +2,7 @@
 
 # Credit Card Default Predictor
 
-- Authors: Althrun Sun, Arjun Radhakrishnan, Morris Zhao,  Ken Wang
+- Authors: Althrun Sun
 
 This risk modeling data analysis project was created as a team project in the Master of Data Science program at the University of British Columbia.
 
